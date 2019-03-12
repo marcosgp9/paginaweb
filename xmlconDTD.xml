@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE questions>
+<questions>
+	<question>
+		<type>text</type>
+		<title>Com es diu l'anime protagonitzat per Gon, Killua, Kurapika i Leorio?</title>
+		<answer>huntr x hunter</answer>
+	</question>
+	<question>
+		<type>text</type>
+		<title>Com s'anomena la força misteriosa que dona als personatges de One Piece la capacitat de sentir i utilitzar l'energia espiritual i dominar als enemics?</title>
+		<answer>haki</answer>
+	</question>
+	<question>
+		<type>select</type>
+		<title>Quin nombre correspon a la frase que s'ha fet un dels memes mes coneguts de bola de drac?</title>
+		<option>8000</option>
+		<option>9000</option> 
+		<option>1000</option>
+		<option>999</option>
+		<answer>1</answer> 
+	</question>
+	<question>
+		<type>select</type>
+		<title>Selecciona quin tipus de magia utilitza Erza.</title>
+		<option>Reequipacio</option>
+		<option>Electricitat</option> 
+		<option>Foc</option>
+		<option>Gel</option>
+		<answer>0</answer> 
+	</question>		 
+	<question>
+		<type>multiple</type>
+		<title>Qui es personatge mes fort i els seus enemics?</title>
+		<option>Genos</option>
+		<option>Tatsumuki</option> 
+		<option>Boros</option> 
+		<option>Garou</option>
+		<option>Saitama</option>
+		<option>Bang</option>
+		<option>Atomic Samurai</option>
+		<answer>2</answer>
+		<answer>3</answer>
+		<answer>4</answer>
+	</question>
+	<question>
+		<type>multiple</type>
+		<title>Qui te els poders de gel i foc?</title>
+		<option>Midoriya</option>
+		<option>All Might</option> 
+		<option>Todoroki</option> 
+		<option>Bakugo</option>
+		<option>Stain</option>
+		<option>Uraraka</option>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>Selecciona tots els personatges de Nanatsu no Taizai.</title>
+		<option>Gon</option>
+		<option>Meliodas</option> 
+		<option>Diane</option> 
+		<option>Kuroko</option>
+		<option>Midoriya</option>
+		<option>Ban</option>
+		<option>Asui</option>
+		<option>Merlin</option>
+		<option>Escanor</option>
+		<option>Bakugo</option>
+		<answer>1</answer>
+		<answer>2</answer>
+		<answer>5</answer>
+		<answer>7</answer>
+		<answer>8</answer>
+	</question>
+	<question>
+		<type>checkbox</type>
+		<title>Quins jugadors formen part de la generació dels miracles?</title>
+		<option>Brook</option>
+		<option>Aomine</option>
+		<option>Hanamura</option>
+		<option>Kise</option>
+		<option>Choper</option>
+		<option>Kagami</option>
+		<option>Akashi</option>
+		<option>Midorima</option>
+		<option>Haya</option>
+		<option>Murasakibara</option>
+		<answer>1</answer>
+		<answer>3</answer>
+		<answer>6</answer>
+		<answer>7</answer>
+		<answer>9</answer>
+	</question>
+	<question >
+		<type>radio</type>
+		<title>Qui es el protagonista de One Piece?</title>
+		<option>Sanji</option>
+		<option>Zoro</option> 
+		<option>Luffy</option> 
+		<option>Nami</option>
+		<answer>2</answer>
+	</question>
+	<question>
+		<type>radio</type>
+		<title>Qui es el protagonista de Fairy Tail?</title>
+		<option>Lucy</option>
+		<option>Natsu</option> 
+		<option>Erza</option> 
+		<option>Gray</option>
+		<answer>1</answer>		  
+	</question>		 
+</questions>			
